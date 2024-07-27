@@ -1,0 +1,25 @@
+{
+    "id": 8,
+    "image": "https://https://ajaybha.github.io/wizschool-broom/tokens/token8.webp",
+    "token_id": "2",
+    "background_color": null,
+    "animation_url": null,
+    "youtube_url": null,
+    "name": "Wizschool Vasco #8",
+    "description": "Broom for the Wizschool Wizard Explorers",
+    "external_url": null,
+    "attributes": [
+      {
+        "trait_type": "Model",
+        "value": "Vasco 740"
+      },
+      {
+        "trait_type": "Speed",
+        "value": "Superfast"
+      },
+      {
+        "trait_type": "Comfort",
+        "value": "95"
+      }
+    ]
+  }
