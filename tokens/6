@@ -1,0 +1,25 @@
+{
+    "id": 6,
+    "image": "https://ajaybha.github.io/wizschool-broom/tokens/token6.webp",
+    "token_id": "6",
+    "background_color": null,
+    "animation_url": null,
+    "youtube_url": null,
+    "name": "Wizschool Tenzing #6",
+    "description": "Top broom for the Wizschool Wizard Highflyers",
+    "external_url": null,
+    "attributes": [
+      {
+        "trait_type": "Model",
+        "value": "Tenzing 600"
+      },
+      {
+        "trait_type": "Speed",
+        "value": "Moderate"
+      },
+      {
+        "trait_type": "Comfort",
+        "value": "6666"
+      }
+    ]
+  }
